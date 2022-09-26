@@ -2,7 +2,7 @@
 
 # Portfolio
 This portfolio is a small project using HTMl / CSS and Boostrap. I will be using this to showcase my projects !
-[Live Heroku Deployment](https://fantastic-cascaron-34c478.netlify.app/)
+[Live Netlify Deployment](https://fantastic-cascaron-34c478.netlify.app/)
 ## Technology Used
 * HTML
 * CSS
